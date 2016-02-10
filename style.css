@@ -1,3 +1,17 @@
 h1 {
     background-color: blue;
+    padding-left: 400px;
+    color: #23ed3b;
+    border: dashed;
+    border-color: yellow
+}
+h3 {
+    color: blue;
+    font-family: monospace;
+    padding-left: 300px
+}
+img {
+    padding-left: 200px;
+    border: solid;
+    border-color: #23ed3b;
 }
